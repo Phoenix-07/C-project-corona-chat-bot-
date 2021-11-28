@@ -1,6 +1,6 @@
 # C-project-corona-chat-bot
 # TEAM 7
-## _Used Languages Are:_
+## _Used Languages is:_
 - C language
 
 ___
