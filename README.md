@@ -12,7 +12,7 @@ ___
 
 ___
 
-## _Made by ❤️ and Contributed by:_
+## _Made by and Contributed by:_
 > [Shivam Saini](https://github.com/Phoenix-07)<br />
 [Rhythm Arora](https://github.com/rym29)<br />
 [Jose Daniel](https://github.com/Danielpzos)<br />
