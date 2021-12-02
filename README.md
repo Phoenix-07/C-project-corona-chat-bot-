@@ -18,7 +18,7 @@ ___
 > [Shivam Saini](https://github.com/Phoenix-07)<br />
 [Rhythm Arora](https://github.com/rym29)<br />
 [Jose Daniel](https://github.com/Danielpzos)<br />
-[Juan Claudio]<br />
+Juan Claudio<br />
 
 
 
