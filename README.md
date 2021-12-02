@@ -8,7 +8,8 @@ ___
 ## _Features_
 
 - Corona chat bot
-- 
+- File input
+- String
 
 ___
 
