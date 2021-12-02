@@ -1,8 +1,9 @@
 # C project corona chat bot
 # TEAM 7
 ## _Used Languages is:_
-!(https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
+![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+  
 ___
 
 ## _Features_
